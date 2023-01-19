@@ -1,0 +1,11 @@
+.main-panel {
+  /* margin-top: 40px; */
+  background-color: black;
+}
+
+.in-panel {
+  height: calc(75vh);
+  overflow-y: scroll;
+  background-color: black;
+  max-width: 1850px;
+}
