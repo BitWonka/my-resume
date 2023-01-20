@@ -53,7 +53,21 @@ const Projects = () => {
         <p className="my-1 purple">LPI DAO:</p>
         <div className="tui-divider"></div>
         <br />
-        <li>Building a Token Sale Page Frontend and Smart Contract:</li>
+        <li>
+          Building a Token Sale Page{" "}
+          <a href="https://sale.lpi.finance/" target="_blank" rel="noreferrer">
+            Frontend
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://bscscan.com/address/0x7b404dc36da18702ea4afe1194fb4258c8fa1467#code"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Smart Contract
+          </a>
+          :
+        </li>
         <p>
           Armed with my recently acquired solidity knowledge, I was excited to
           tackle this project. I was particularly excited to learn how to link
@@ -65,7 +79,25 @@ const Projects = () => {
           and Styled Components. It was a valuable experience to learn EtherJS
           on the fly and I was able to complete the development by the deadline.
         </p>
-        <li>Building a Staking Page Frontend and Smart Contracts:</li>
+        <li>
+          Building a Staking Page{" "}
+          <a
+            href="https://staking.lpi.finance/#/stake"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Frontend
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://bscscan.com/address/0x0fc038C0B61B86CaB3E7099b65eFc8249cb61aFD#code"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Smart Contracts
+          </a>
+          :
+        </li>
         <p>
           I was given the task of building a staking page with no design
           provided, but with specific requirements for the smart contract. Being
@@ -81,7 +113,21 @@ const Projects = () => {
           enough YouTube videos, it all made sense. Mission Accomplished and I
           had a blast doing it.
         </p>
-        <li>Building a Vesting Page Frontend and Smart Contract:</li>
+        <li>
+          Building a Vesting Page{" "}
+          <a href="https://claim.lpi.finance/" target="_blank" rel="noreferrer">
+            Frontend
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://bscscan.com/address/0x64AF31bD9dEA62977DCd19b627eCdDF043A5ebc4#code"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Smart Contract
+          </a>
+          :
+        </li>
         <p>
           After my previous experiences, this task was a breeze. I used a
           vesting contract from SuperFarm (which I discovered had a bug and
@@ -111,7 +157,16 @@ const Projects = () => {
         <br />
         <li>Boring course projects</li>
         <li>Minor frontend works</li>
-        <li>Wrapper for Ancient NFT:</li>
+        <li>
+          <a
+            href="https://twitter.com/bitw0nka/status/1430780755555364869"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Wrapper
+          </a>{" "}
+          for Ancient NFT:
+        </li>
         <p>
           During a time when the NFT market was on the hunt for archeological
           NFT's, I was excited to put my love for digging and finding to the

@@ -32,8 +32,8 @@ pre {
   margin-right: auto;
   width: 90vw;
   max-width: 1200px;
-  height: auto;
-  min-height: 85vh;
+  height: calc(100vh - 183px);
+  min-height: 70vh;
 }
 
 .tooltip {
@@ -119,5 +119,12 @@ pre {
 
   .tooltip .tooltiptext {
     width: 90px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .main-div {
+    height: auto;
+    min-height: 85vh;
   }
 }

@@ -52,9 +52,9 @@ const Introduction = () => {
       <pre>{`function sayHello() {
   return (
 
-    "HENLO HOOMAN, WELCOME"
+    "HENLO HOOMAN, WELCOME",
 
-    "If you dont like reading code, just press the button"
+    "If you dont like reading code, just press the purple buttons"
 
   )
 }       
@@ -83,7 +83,7 @@ function whoAMI() {
 
     "As a passionate cryptocurrency enthusiast since 2017, I am constantly seeking new ways to contribute to the space. In 2019, I decided to take the initiative and become a self-taught developer by enrolling in online programming courses on Udemy. My skillset includes proficiency in various frameworks and libraries, particularly React.",
 
-    "I am a collaborative team player, a self-motivated learner, and a problem-solver. My boundless curiosity drives me to constantly seek out new challenges and opportunities for growth. I am comfortable with remote work and always eager to expand my knowledge and skills. I am a versatile individual who is willing to take on multiple roles and lend a helping hand whenever and wherever needed."
+    "I am a collaborative team player, a self-motivated learner, and a problem-solver. My boundless curiosity drives me to constantly seek out new challenges and opportunities for growth. I am comfortable with remote work and always eager to expand my knowledge and skills. I am a versatile individual who is willing to take on multiple roles and lend a helping hand whenever and wherever needed.",
     
     'Curiosity killed the cat but taught me how to code',
 
@@ -167,7 +167,7 @@ function getAchievements () {
 
     "OG Top 200 Degen as per DegenScore (When it was cool)",
 
-    "Archeological @DevOps199 NFT Discovery from 2017"
+    "Archeological @DevOps199 NFT Discovery from 2017",
 
     "Completed Ethernaut CTF"
 

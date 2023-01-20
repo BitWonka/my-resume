@@ -4,7 +4,7 @@ import "./TextArt.css";
 
 const TextArt = () => {
   return (
-    <pre className="ascii-text purple">
+    <pre className="ascii-text purple typewriter">
       {`
 /*
 
