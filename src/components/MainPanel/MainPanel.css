@@ -4,7 +4,7 @@
 }
 
 .in-panel {
-  height: calc(75vh - 41px);
+  height: calc(75vh - 71px);
   overflow-y: scroll;
   background-color: black;
   max-width: 1850px;
