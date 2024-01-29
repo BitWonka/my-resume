@@ -4,8 +4,54 @@ const Projects = () => {
   return (
     <React.Fragment>
       <div className="tui-divider mt-3"></div>
-      <legend className="center my-1 purple">Experience / Projects </legend>
+      <legend className="center my-1 purple">Experience / Projects</legend>
       <div className="tui-divider"></div>
+
+      <div>
+        <br />
+        <p className="my-1 purple">Octav:</p>
+        <div className="tui-divider"></div>
+        <br />
+        <li>Referral System:</li>
+        <p>
+          New job, first task. I had to do the frontend for a referral system.
+          Simple and easy.
+        </p>
+        <li>NFT Dashboard:</li>
+        <p>
+          Jumping into this project was a wild ride! I got to handle both the
+          frontend and backend of our NFT dashboard, which was pretty daunting
+          since I was new to backend stuff. But hey, I love picking up new
+          skills! I even added a cool feature that lets users sell their NFTs
+          right from the dashboard. Seeing everything come together in the end
+          was awesome, and I couldn't be prouder of what I achieved and learnt.
+        </p>
+        <li>
+          {" "}
+          <a href="https://frentech.octav.fi" target="_blank" rel="noreferrer">
+            FrenTech
+          </a>
+          :
+        </li>
+        <p>
+          Working on the FrenTech dashboard was absolutely epic. Just as
+          Friend.Tech started making waves, my boss and I decided to craft this
+          killer dashboard. I hit the ground running one Sunday, and after a
+          marathon of coding (and way too much coffee), FrenTech was ready to
+          rock by Wednesday. This wasn't just a small update; I built this baby
+          from scratch. I used NextJS for the frontend and backend, MongoDB for
+          keeping our data straight, and a Node/Express server for the heavy
+          lifting. Seeing FrenTech become the go-to dashboard for Friend.Tech
+          users was mind-blowing. It wasn't just a win for me; it put our
+          company in the spotlight and drew in loads of new users.
+        </p>
+        <li>Other Works:</li>
+        <p>3rd Party Integrations</p>
+        <p>Payment System</p>
+        <p>Labelling System</p>
+        <p>Payment System</p>
+        <p>Admin Panel overhaul</p>
+      </div>
 
       <div>
         <br />
@@ -49,6 +95,7 @@ const Projects = () => {
         <li>Other Works:</li>
         <p>Fixing numerous pre-existing frontend bugs</p>
       </div>
+
       <div>
         <p className="my-1 purple">LPI DAO:</p>
         <div className="tui-divider"></div>

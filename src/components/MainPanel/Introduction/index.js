@@ -81,9 +81,9 @@ const Introduction = () => {
 function whoAMI() {
   return ([
 
-    "As a passionate cryptocurrency enthusiast since 2017, I am constantly seeking new ways to contribute to the space. In 2019, I decided to take the initiative and become a self-taught developer by enrolling in online programming courses on Udemy. My skillset includes proficiency in various frameworks and libraries, particularly React.",
+    "As a passionate cryptocurrency enthusiast since 2017, I am constantly seeking new ways to contribute to the space with my dev skills. I am proficient in various frameworks and libraries, particularly React, JS/TS, Node and Web3.",
 
-    "I am a collaborative team player, a self-motivated learner, and a problem-solver. My boundless curiosity drives me to constantly seek out new challenges and opportunities for growth. I am comfortable with remote work and always eager to expand my knowledge and skills. I am a versatile individual who is willing to take on multiple roles and lend a helping hand whenever and wherever needed.",
+    "I am a collaborative team player, a self-motivated learner, and a problem-solver. My boundless curiosity drives me to constantly seek out new challenges and opportunities for growth. I am comfortable with remote work and always eager to expand my knowledge and skills. I am a versatile individual who is willing to take on multiple roles, always willing to go the extra mile, and lend a helping hand whenever and wherever needed.",
     
     'Curiosity killed the cat but taught me how to code',
 
@@ -102,18 +102,18 @@ function whoAMI() {
         title={"Who Am I?"}
       >
         As a passionate cryptocurrency enthusiast since 2017, I am constantly
-        seeking new ways to contribute to the space. In 2019, I decided to take
-        the initiative and become a self-taught developer by enrolling in online
-        programming courses on Udemy. My skillset includes proficiency in
-        various frameworks and libraries, particularly React.
+        seeking new ways to contribute to the space with my dev skills. I am
+        proficient in various frameworks and libraries, particularly React,
+        JS/TS, Node and Web3.
         <br />
         <br />
         I am a collaborative team player, a self-motivated learner, and a
         problem-solver. My boundless curiosity drives me to constantly seek out
         new challenges and opportunities for growth. I am comfortable with
         remote work and always eager to expand my knowledge and skills. I am a
-        versatile individual who is willing to take on multiple roles and lend a
-        helping hand whenever and wherever needed.
+        versatile individual who is willing to take on multiple roles, always
+        willing to go the extra mile, and lend a helping hand whenever and
+        wherever needed.
         <br />
         <br />
         "Curiosity killed the cat but taught me how to code"

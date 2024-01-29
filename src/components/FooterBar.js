@@ -2,7 +2,7 @@ import React from "react";
 
 const FooterBar = () => {
   return (
-    <div className="tui-statusbar relative">
+    <div className="tui-statusbar footer">
       <ul>
         <li>
           <a href="#!">

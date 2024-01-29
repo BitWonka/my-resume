@@ -36,6 +36,20 @@ pre {
   min-height: 70vh;
 }
 
+.footer {
+  position:fixed;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90vw;
+  max-width: 1200px;
+  background-color: #a8a8a8;
+  z-index: 9;
+  padding: 0 1px;
+  left: auto;
+  border: 2px solid #000;
+}
+
 .tooltip {
   position: relative;
   display: inline-block;
@@ -123,8 +137,5 @@ pre {
 }
 
 @media screen and (max-width: 1200px) {
-  .main-div {
-    height: auto;
-    min-height: 85vh;
-  }
+
 }

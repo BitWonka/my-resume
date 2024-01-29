@@ -4,8 +4,14 @@
 }
 
 .in-panel {
-  height: calc(75vh);
+  height: calc(75vh - 41px);
   overflow-y: scroll;
   background-color: black;
   max-width: 1850px;
+}
+
+@media screen and (max-width: 1200px) {
+  .in-panel {
+    height: calc(75vh - 81px);
+  }
 }
